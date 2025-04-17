@@ -6,9 +6,9 @@ A new Flutter project in fulfillment of the DevOps finals exam.
 
 Users can login with their registered account, with an OTP to authenticate the users. They can also request to reset the passwords if forgotten.
 
-- [ ] LogIn Page
-- [ ] Authentication
-- [ ] Password Reset
+- [x] LogIn Page
+- [x] Authentication
+- [x] Password Reset
 
 ## Account Dashboard
 
